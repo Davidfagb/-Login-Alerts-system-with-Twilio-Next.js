@@ -1,0 +1,1 @@
+Sometimes, you want to know immediately when a user logs into your app whether it's for security reasons, user activity monitoring, or simply keeping track of engagement. Real-time login alerts can help you detect unauthorized access attempts or provide useful analytics.
